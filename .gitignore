@@ -1,7 +1,7 @@
 # .streamlit/secrets.toml
 
 [mysql]
-host = "27.42.79.182"
+host = "192.168.56.1"
 port = 3306
 database = "data_manage_product"
 user = "root"
