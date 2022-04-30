@@ -1,7 +1,5 @@
 # streamlit-BITZH-CSPS-app
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/whitphx/streamlit-stt-app/main/app_deepspeech.py)
-
 <a href="http://shuli.xy.bitzh.edu.cn/slxy/" target="_blank"><img src="http://shuli.xy.bitzh.edu.cn/slxy/img2015/LOGO.png" ></a>
 
 A College Student Portrait System app built with Streamlit.
