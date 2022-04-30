@@ -5,7 +5,6 @@ WordCloud display
 @author: YHH --- TEAM
 """
 import jieba
-from collections import Counter
 from pyecharts import options as opts
 from pyecharts.charts import WordCloud
 from pyecharts.globals import SymbolType
