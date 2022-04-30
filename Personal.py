@@ -76,7 +76,7 @@ class personal_graph():
             </center>
             """,height = 460)
             
-        if st.button('头像不显示请点击'):
+        if st.button('头像不显示请点击',help='如不显示，请多次点击'):
             display_word
 
             
