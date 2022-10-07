@@ -1,4 +1,4 @@
-# streamlit-BITZH-CSPS-app
+# streamlit-BITZH-CSPS-app(V1.0)
 
 <a href="http://shuli.xy.bitzh.edu.cn/slxy/" target="_blank"><img src="http://shuli.xy.bitzh.edu.cn/slxy/img2015/LOGO.png" ></a>
 
