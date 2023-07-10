@@ -1,5 +1,5 @@
 # requirements.txt
-paddlepaddle==2.3.0
+paddlepaddle==2.4.0
 mysql-connector-python==8.0.29
 jieba==0.42.1
 pyecharts==1.9.1
